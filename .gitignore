@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+# Training outputs
+runs/
+*.pt
+yolov8n.pt
+
+# Raw data
+raw/
+
+# Environment
+.venv/
+.vscode/
