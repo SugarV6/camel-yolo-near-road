@@ -1,3 +1,4 @@
+# camel-yolo-near-road: YOLOv8 camel detection + road segmentation (https://github.com/SugarV6/camel-yolo-near-road)
 """Project root and local paths so all outputs stay under the repo."""
 
 from pathlib import Path

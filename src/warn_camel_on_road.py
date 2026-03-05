@@ -1,3 +1,4 @@
+# camel-yolo-near-road: YOLOv8 camel detection + road segmentation (https://github.com/SugarV6/camel-yolo-near-road)
 """
 Camel-on-road warning: run camel detection + road segmentation per frame.
 If a camel bbox overlaps the road mask above a threshold, print and overlay "CAMEL ON ROAD".

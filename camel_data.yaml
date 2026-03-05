@@ -1,3 +1,4 @@
+# camel-yolo-near-road: dataset config for camel detection (YOLOv8)
 path: camel_dataset
 train: images/train
 val: images/val

@@ -1,3 +1,4 @@
+# camel-yolo-near-road: YOLOv8 camel detection + road segmentation (https://github.com/SugarV6/camel-yolo-near-road)
 """Run camel detection + road segmentation on video; overlay and optionally filter camels on road."""
 
 import cv2

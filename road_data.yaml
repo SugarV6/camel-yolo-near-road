@@ -1,3 +1,4 @@
+# camel-yolo-near-road: dataset config for road segmentation (YOLOv8)
 path: road_dataset
 train: images/train
 val: images/val

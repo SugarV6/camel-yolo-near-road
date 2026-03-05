@@ -1,3 +1,4 @@
+# camel-yolo-near-road: YOLOv8 camel detection + road segmentation (https://github.com/SugarV6/camel-yolo-near-road)
 """Ingest camel (detection) and road (segmentation) datasets from raw/ into final folder structure."""
 
 import random

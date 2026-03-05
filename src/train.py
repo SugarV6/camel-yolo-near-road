@@ -1,3 +1,4 @@
+# camel-yolo-near-road: YOLOv8 camel detection + road segmentation (https://github.com/SugarV6/camel-yolo-near-road)
 """Train YOLOv8 detection (camels) and segmentation (roads) via Python API only.
 All outputs (runs, weights) are saved locally under the project directory."""
 
