@@ -1,0 +1,4 @@
+# Minimal deps; install PyTorch CUDA separately:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+ultralytics
+opencv-python

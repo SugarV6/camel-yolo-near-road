@@ -3,11 +3,23 @@ __pycache__/
 
 # Training outputs
 runs/
-*.pt
-yolov8n.pt
 
-# Raw data
+# Weights (keep base weights)
+*.pt
+!yolov8n.pt
+!yolov8n-seg.pt
+
+# Source folders (merged into camel_dataset/ and road_dataset/; do not re-add)
+dataset/
+datasets/
 raw/
+trainRoadRaw/
+
+# Orphans and large datasets (optional: remove camel_dataset/ road_dataset/ lines to track)
+orphan_images/
+orphan_labels/
+camel_dataset/
+road_dataset/
 
 # Environment
 .venv/
